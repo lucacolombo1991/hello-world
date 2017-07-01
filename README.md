@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Hi! I'm Luca and I'm a beast!
+Hi! I'm Luca and I just learned how GitHub works!
